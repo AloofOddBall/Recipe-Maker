@@ -44,24 +44,24 @@ $ flask run
 ```
 
 ## Functional Requirements
-1. User Registration			Jayden
-2. User Login				      Jayden
-3. User Logout				    Jayden
+1. User Registration			Gabriel
+2. User Login				      Gabriel
+3. User Logout				    Gabriel
 4. Create Recipe			    Charlie
 5. Edit Recipe				    Charlie
-6. Delete Recipe			    Gabriel
-7. View Recipe				    Gabriel
-8. Search Recipe
-9. Rate Recipe
-10. Comment on Recipe
-11. View User Profile
-12. Edit User Profile 
-13. Save Recipe (Favorite) 
-14. View All Recipes
-15. Filter Recipes
-16. Delete Comments
-17. Reply to Comments
-18. Rate Comments
+6. Delete Recipe			    Jayden
+7. View Recipe				    Jayden
+8. Search Recipe          Gabriel
+9. Rate Recipe            Gabriel
+10. Comment on Recipe     Jayden
+11. View User Profile     Charlie
+12. Edit User Profile     Charlie
+13. Save Recipe, Favorite Charlie
+14. View All Recipes      Jayden
+15. Filter Recipes        Gabriel
+16. Delete Comments       Jayden
+17. Reply to Comments     Jayden
+18. Rate Comments         Jayden
 
 ## GitHub Repository
 https://github.com/AloofOddBall/Recipe-Maker
