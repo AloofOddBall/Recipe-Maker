@@ -20,6 +20,9 @@ We also have a responsibility to moderate content to prevent the spread of misin
 In every decision, we must aim to create a platform that empowers individuals, promotes inclusivity, and upholds strong ethical standards in 
 both technology and online communities.
 
+## Project Presentation
+https://drive.google.com/file/d/1bimPrsRjxWoQy7mdT6lXESg-COtbmBNt/view?usp=sharing
+
 ## How to Get Started
 1. clone the repository
 2. create and activate a virtual environment
