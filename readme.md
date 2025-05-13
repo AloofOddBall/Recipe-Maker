@@ -38,7 +38,7 @@ $ pip install -r requirements.txt
 $ pip install --break-system-packages --no-deps flask_sqlalchemy flask_login flask_wtf email_validator
 
 $ flask db init # ignore if already exists
-$ flask db migrate -m "Initial migration"
+$ flask db migrate -m "Initial migration" # ignore if already exists
 $ flask db upgrade
 $ flask run
 ```
