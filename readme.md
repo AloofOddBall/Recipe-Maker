@@ -32,7 +32,11 @@ $ git clone https://github.com/AloofOddBall/Recipe-Maker
 $ cd Recipe-Maker
 $ python3 -m venv venv
 $ source venv/bin/activate
+
 $ pip install -r requirements.txt
+# or if running into complications
+$ pip install --break-system-packages flask flask_sqlalchemy flask_login flask_wtf email_validator
+
 $ flask db init # ignore if already exists
 $ flask db migrate -m "Initial migration"
 $ flask db upgrade
